@@ -1,4 +1,4 @@
-﻿#include "stdafx.h"
+#include "stdafx.h"
 #include "DlgMain.h"
 #include "HWFW_GUI.hpp"
 
