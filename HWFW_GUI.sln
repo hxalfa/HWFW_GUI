@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2036
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HWFW_GUI", "HWFW_GUI\HWFW_GUI.vcxproj", "{6DA1C07F-D2B9-4834-88E1-6F493A5D589E}"
 EndProject
@@ -15,7 +15,6 @@ Global
 		{6DA1C07F-D2B9-4834-88E1-6F493A5D589E}.Debug|x86.ActiveCfg = Debug|Win32
 		{6DA1C07F-D2B9-4834-88E1-6F493A5D589E}.Debug|x86.Build.0 = Debug|Win32
 		{6DA1C07F-D2B9-4834-88E1-6F493A5D589E}.Release_LLVM|x86.ActiveCfg = Release_LLVM|Win32
-		{6DA1C07F-D2B9-4834-88E1-6F493A5D589E}.Release_LLVM|x86.Build.0 = Release_LLVM|Win32
 		{6DA1C07F-D2B9-4834-88E1-6F493A5D589E}.Release|x86.ActiveCfg = Release|Win32
 		{6DA1C07F-D2B9-4834-88E1-6F493A5D589E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection

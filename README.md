@@ -4,34 +4,40 @@ HuaWei ONT Firmware Editor - GUI
 Screenshots
 -------
 
-![PREVIEW](./Screenshots/SS_1.0.8_1.png)
-![PREVIEW](./Screenshots/SS_1.0.3_2.png)
-![PREVIEW](./Screenshots/SS_1.0.8_2.png)
+![PREVIEW](./Screenshots/SS_1.0.9_1.png)
+![PREVIEW](./Screenshots/SS_1.0.9_3.png)
+![PREVIEW](./Screenshots/SS_1.0.9_4.png)
+![PREVIEW](./Screenshots/SS_1.0.9_5.png)
 
 ChangeLog
 -------
+### 1.0.9 Beta Build 001
+- Added auto-fitting for all columns
+- Modified all Chinese text to English
+
 ### 1.0.8 Beta Build 005
-- 修改导出子项目时，项目大小的判定规则
-- 修复删除子项目时崩溃的问题
+- Modified the project size determination rules when exporting sub-projects
+- Fixed a crash when deleting a subproject
 
 ### 1.0.8 Alpha Build 002
-- 增加编辑产品列表功能
-- 增加对R018, R019的子项目解析支持
-- 增加对V5固件的子项目对齐支持
-- Bug修复
+- Added product list editing functionality
+- Added support for sub-project parsing for R018 and R019
+- Added support for sub-project alignment for V5 firmware
+- Bug fixes
 
 ### 1.0.4 Alpha Build 001
-- 增加浏览支持的产品型号功能
+- Added the function of browsing supported product models
 
 ### 1.0.3 Alpha Build 003
-- 增加高级数据格式的编辑功能
-- 细节修复
-- 代码缩进优化
+- Added advanced data format editing features
+- Minor fixes
+- Code indentation optimization
+
 
 Donate
 -------
-如果本软件对你有帮助，请考虑捐赠作者，以支持其继续开发！  
-If the software is helpful to you, please consider donating the author to support its continued development!
+If this software is helpful to you, please consider donating to the author to support its continued development!
+
 
 License
 -------
