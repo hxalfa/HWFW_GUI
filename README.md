@@ -36,7 +36,7 @@ ChangeLog
 
 Donate
 -------
-If this software is helpful to you, please consider donating to @csersoft to support its continued development!
+If this software is helpful to you, please consider donating to [CserSoft](https://github.com/csersoft) to support continuous development!
 
 
 License
